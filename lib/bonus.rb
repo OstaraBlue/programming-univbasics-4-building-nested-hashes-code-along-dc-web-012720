@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-  w
+  epic_tragedy[:status] = "dead"
   
 
   
