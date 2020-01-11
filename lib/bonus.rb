@@ -21,8 +21,8 @@ def bonus
   }
 
   #code your solution here:
-  if epic_tragedy[:capulet][:heroine][:status]
-   epic_tragedy[:capulet][:hero][:status] = "dead"
+  if epic_tragedy[:montague][:status]
+   epic_tragedy[:capulet][[:status] = "dead"
   end
   
 
