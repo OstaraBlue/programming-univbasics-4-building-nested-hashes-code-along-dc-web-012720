@@ -21,7 +21,7 @@ def bonus
   }
 
   #code your solution here:
-  status_update = "dead"
+  epic_tragedy
   
   
 
