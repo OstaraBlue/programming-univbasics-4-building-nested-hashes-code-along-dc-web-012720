@@ -23,6 +23,7 @@ def bonus
   #code your solution here:
   if epic_tragedy[:montague][:status] && [:capulet][:status]
    epic_tragedy[:capulet][:status] = "dead"
+   epic_tragedy[:montague][:status] = "dead"
   end
   
 
